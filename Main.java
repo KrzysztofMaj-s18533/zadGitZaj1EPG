@@ -4,6 +4,6 @@ public class Main(){
 	}
 	
 	public void printAreaOfSquare(int edge){
-		System.out.println("The area of the square equals " + (edge+edge));
+		System.out.println("The area of the square equals " + (edge*edge));
 	}
 }
